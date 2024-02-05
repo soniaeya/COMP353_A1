@@ -1,0 +1,10 @@
+1,C001,Winter,2024,B+
+2,C001,Winter,2024,A
+3,C001,Winter,2024,A-
+4,C002,Winter,2024,B+
+5,C003,Winter,2024,A
+1,C004,Winter,2024,A-
+2,C005,Winter,2024,B+
+3,C002,Winter,2024,A
+4,C003,Winter,2024,B+
+5,C001,Winter,2024,A-

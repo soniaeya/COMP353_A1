@@ -1,0 +1,5 @@
+C001,Databases,4
+C002,Algorithms,3
+C003,Machine Learning,4
+C004,Computer Networks,3
+C005,Operating Systems,3
